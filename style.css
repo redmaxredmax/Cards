@@ -1,0 +1,24 @@
+.card{
+    background-color: #FF4F52;
+    width: 263px;
+    height: 320px;
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+.card_title{
+    color: #fff;
+    font-size: 12px;
+    font-family: Graphik Web;
+}
+
+.card_p{
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+
+
